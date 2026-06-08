@@ -1,11 +1,18 @@
 # Python Exercises
+## 1. Project Euler
 ### This is a personal project that I try to solve to Euler project problems with using python language
-1. This problem is sum of all natural numbers below 1000 that are multiples of 3 or 5. [problem 1](1.py)
-2. This problem is finding sum of all the even-valued fibonacci terms in the sequence which do not exceed four milions. [problem 2](2.py)
-3. This problem is what is the largest prime factor of the number 600851475143? [problem 3](3.py)
-4. This problem is finding the largest palindrome that made from the product of two 3-digits numbers. [problem 4](4.py)
-5. This problem is what is the smallest number that is evenly divisible by all of the numbers from 1 to 20? [problem 5](5.py)
-6. This problem is finding the diffrence between the sum of the squares of the first one hundred natural numbers and the square of the sum of them. [problem 6](6.py)
-7. This problem is what is the 10001st prime number? [problem 7](7.py)
-8. This problem is finding the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? [problem 8](8.py)
-9. This problem is finding product of a, b, c when a, b, c are pythagorean triplet and a+b+c = 1000. [problem9](9.py)
+1. This problem is sum of all natural numbers below 1000 that are multiples of 3 or 5. [problem 1](euler_project/1.py)
+2. This problem is finding sum of all the even-valued fibonacci terms in the sequence which do not exceed four milions. [problem 2](euler_project/2.py)
+3. This problem is what is the largest prime factor of the number 600851475143? [problem 3](euler_project/3.py)
+4. This problem is finding the largest palindrome that made from the product of two 3-digits numbers. [problem 4](euler_project/4.py)
+5. This problem is what is the smallest number that is evenly divisible by all of the numbers from 1 to 20? [problem 5](euler_project/5.py)
+6. This problem is finding the diffrence between the sum of the squares of the first one hundred natural numbers and the square of the sum of them. [problem 6](euler_project/6.py)
+7. This problem is what is the 10001st prime number? [problem 7](euler_project/7.py)
+8. This problem is finding the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? [problem 8](euler_project/8.py)
+9. This problem is finding product of a, b, c when a, b, c are pythagorean triplet and a+b+c = 1000. [problem9](euler_project/9.py)
+
+## 2. Python Regular Expression
+### These are some regular expression exercises from easy to a little difficult
+1. Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9). [problem 1](regex_exercises/1.py)
+2. Write a Python program that matches a string that has an a followed by zero or more b's. [problem 2](regex_exercises/2.py)
+3. Write a Python program that matches a string that has an a followed by one or more b's. [problem 3](regex_exercises/3.py)
