@@ -11,6 +11,7 @@
 8. This problem is finding the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? [problem 8](project_euler/8.py)
 9. This problem is finding product of a, b, c when a, b, c are pythagorean triplet and a+b+c = 1000. [problem9](project_euler/9.py)
 10. This problem is the sum of all primes below 2000000. [problem 10](project_euler/10.py)
+11. This problem is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20 x 20 grid. [problem 11](project_euler/011.py)
 
 ## 2. Python Regular Expression
 ### These are some regular expression exercises from easy to a little difficult
