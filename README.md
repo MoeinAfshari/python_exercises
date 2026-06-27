@@ -19,3 +19,4 @@
 2. Write a Python program that matches a string that has an a followed by zero or more b's. [problem 2](regex_exercises/2.py)
 3. Write a Python program that matches a string that has an a followed by one or more b's. [problem 3](regex_exercises/3.py)
 4. Write a Python program that matches a string that has an a followed by zero or one 'b'. [problem4](regex_exercises/4.py)
+5. Write a Python program that matches a string that has an a followed by at least three 'b'. [problem 5](regex_exercises/5.py)
